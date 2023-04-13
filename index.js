@@ -22,7 +22,7 @@ output += i + ' ';
 console.log(output.trim());
 }
 
-fizzBuzzContact('9000000099');
+fizzBuzzContact('9004611981');
 
 // Write a Fizz Buzz function that will accept your phone number as the input then it will calculate sum of your phone number and run a loop from 1 to the sum. For every iteration you have to Print Fizz if the number is divisible by 4, Buzz if the number divisible by 5 and FizzBuzz if its divisible by both 4 and 5 else just print the number.
 
